@@ -75,4 +75,6 @@ referenceValue1[3] = 4;
 referenceValue2[4] = 10;
 
 // console.log(referenceValue2);
-//Obiekt nie została skopiowany, a został przypisany jedynie link do miejsca w pamięci, w którym się znajduje. 
+//Obiekt nie została skopiowany, a został przypisany jedynie link do miejsca w pamięci, w którym się znajduje.
+
+//test
