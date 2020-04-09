@@ -41,7 +41,7 @@ typeof dateFirstLogin;
 // Null - nie posiada (jedna wartość)
 // Najczęściej przez programistę nadawana
 let userSecondName = null;
-typeof null; // błędnie zwraca jako "object", ale to nie jest obiekt i nie można tego poprawić ze względu na wsteczną kompatybilność.
+typeof null; // błędnie zwraca jako "object", ale to nie jest obiekt i nie można tego poprawić aktualizacjami ze względu na wsteczną kompatybilność.
 
 // Symbol (nowy typ w ES6)
 //do stworzenie wymaga wywołania funkcji. Nie będzie omawiany w kursie.
