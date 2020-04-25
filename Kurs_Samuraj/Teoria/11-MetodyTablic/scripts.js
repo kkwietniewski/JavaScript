@@ -143,7 +143,7 @@ animals.includes('rat'); //false
 
 
 //METODA JOIN
-//Tworzy stringa z elementów, domyślnie oddzielonych przeccinkiem, można to zmienić.
+//Tworzy stringa z elementów, domyślnie oddzielonych przecinkiem, można to zmienić.
 items.join(); //string odddzielony przecinkami
 items.join("<--");
 items.join(" separator; \n");
