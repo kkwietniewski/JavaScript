@@ -115,6 +115,7 @@ const showNewCourse = showCourseName;
 
 const divideBy2 = function (number) {
     console.log(number / 2);
+    // return number/2;
 }
 
 // const result1 = divideBy2(10);
