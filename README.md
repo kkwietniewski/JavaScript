@@ -1,2 +1,2 @@
 #Javascript
-Kursy i strony do ćwiczeń z zakresu Vanilla Js
+Kursy i strony do ćwiczeń z zakresu Js
