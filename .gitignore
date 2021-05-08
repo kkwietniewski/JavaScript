@@ -194,3 +194,9 @@ FakesAssemblies/
 
 # Visual Studio 6 workspace options file
 *.opt
+VueJS/node_modules
+VueJS/.DS_Store
+VueJS/dist
+VueJS/dist-ssr
+VueJS/*.local
+VueJS/.vscode/settings.json
